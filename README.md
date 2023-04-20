@@ -13,5 +13,10 @@
     "عکس": "https://s26.picofile.com/file/8460494334/Picsart_23_02_28_16_06_03_076.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/I7bxC/vt/frame",
     "جزئیات": "کاربرد بخشهای مختلف\n"
+  },
+  {
+    "عکس": "https://s29.picofile.com/file/8462393434/Picsart_23_04_20_19_14_00_669.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/ObsSv/vt/frame",
+    "جزئیات": "6 محتوای موبایل"
   }
 ]
