@@ -18,5 +18,15 @@
     "عکس": "https://s29.picofile.com/file/8462393434/Picsart_23_04_20_19_14_00_669.jpg",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/ObsSv/vt/frame",
     "جزئیات": "6 محتوای موبایل"
+  },
+  {
+    "عکس": "https://s29.picofile.com/file/8462394418/Picsart_23_04_20_20_06_55_658.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/WR4uN/vt/frame",
+    "جزئیات": "خرید بسته ی اینترنت همراه با کد"
+  },
+  {
+    "عکس": "https://s28.picofile.com/file/8462394600/Picsart_23_04_20_20_16_38_167.jpg",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/WR4uN/vt/frame",
+    "جزئیات": "آپدیت برنامهای گوشی"
   }
 ]
