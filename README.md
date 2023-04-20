@@ -26,7 +26,7 @@
   },
   {
     "عکس": "https://s28.picofile.com/file/8462394600/Picsart_23_04_20_20_16_38_167.jpg",
-    "لینک": "https://www.aparat.com/video/video/embed/videohash/WR4uN/vt/frame",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/LdXzv/vt/frame",
     "جزئیات": "آپدیت برنامهای گوشی"
   }
 ]
